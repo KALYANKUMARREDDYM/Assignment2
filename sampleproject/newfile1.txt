@@ -1,2 +1,6 @@
 this is the new file1
+<<<<<<< HEAD
 again added
+=======
+new text added again
+>>>>>>> 2bee528 (added)
